@@ -11,7 +11,6 @@ I'm an **Android Developer** passionate about creating efficient and user-friend
 - 🐍 Python  
 - 🌐 HTML & CSS  
 - 📱 Dart (for Flutter development)  
-- 💻 C#  
 - 🔢 Basic4Android (B4A)  
 - ☕ Java  
 - 💻 C++  
