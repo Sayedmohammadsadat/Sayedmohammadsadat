@@ -8,12 +8,14 @@ I'm an **Android Developer** passionate about creating efficient and user-friend
 ## 🛠️ **Skills & Abilities**
 
 ### 🔧 **Programming Languages**
-- 🐍 Python  
-- 🌐 HTML & CSS  
-- 📱 Dart (for Flutter development)  
-- 🔢 Basic4Android (B4A)  
-- ☕ Java  
 - 💻 C++  
+- ☕ Java
+- 🐍 Python  
+- 📱 Dart (for Flutter development)  
+- 🐘 PHP  
+- 🌐 HTML & CSS
+- 🟦 JavaScript  
+- 🔢 Basic4Android (B4A)  
 
 ### 📱 **Mobile App Development**
 - Proficient in **Flutter Framework** for cross-platform apps.  
@@ -21,9 +23,14 @@ I'm an **Android Developer** passionate about creating efficient and user-friend
 
 ### 🌐 **Web Development**
 - Knowledge of **HTML, CSS**, and JavaScript fundamentals.  
+- Experience with **PHP** for server-side scripting.  
+- Familiar with **Bootstrap** for responsive web design.  
+
+### 🗄️ **Database Management**
+- Strong understanding of **database design** and backend logic.  
+- Proficient in **MySQL** for database management.  
 
 ### 🚀 **Other Skills**
-- Strong understanding of **database design** and backend logic.  
 - Skilled in problem-solving and debugging complex issues.  
 - Enthusiastic about learning new tools and technologies.  
 
@@ -33,6 +40,7 @@ I'm an **Android Developer** passionate about creating efficient and user-friend
 - Building and improving innovative Android apps.  
 - Expanding knowledge in **web programming** and **JavaScript**.  
 - Exploring advanced concepts in **Flutter** and **Dart**.  
+- Developing backend solutions using **PHP** and **MySQL**.  
 
 ---
 
